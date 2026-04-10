@@ -1,4 +1,3 @@
-# seminar-real-estate-finance
 # Same Shock, Different City
 
 **Drivers of House Prices: The Role of Location, Land, and Construction Costs**
