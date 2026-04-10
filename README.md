@@ -3,7 +3,7 @@
 **Drivers of House Prices: The Role of Location, Land, and Construction Costs**
 
 Research Seminar in Real Estate Finance — University of St. Gallen (HSG), Spring 2026  
-Group 4 · Prof. Dr. Roland Füss
+Supervisor: Dr. Roland Füss
 
 ## Research Question
 
