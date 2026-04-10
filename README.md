@@ -7,7 +7,7 @@ Group 4 · Prof. Dr. Roland Füss
 
 ## Research Question
 
-*What macroeconomic and structural factors drive U.S. metro-level house prices, and does local supply restrictiveness — as measured by land use regulation — amplify their impact?*
+*What macroeconomic and structural factors drive U.S. metro-level house prices, and does local supply restrictiveness (as measured by land use regulation) amplify their impact?*
 
 ## Methodology
 
